@@ -1,0 +1,21 @@
+.home-container{
+    padding-left: 20%;
+    margin-bottom: 5rem;
+}
+
+.home-card{
+    width: 70%; 
+    flex-direction: row; 
+    align-items: center;
+    margin-top: 5%;
+    padding: 2rem;
+}
+
+.home-body{
+    flex: 1 1;
+}
+
+.home-title{
+    width: 100%; 
+    margin-left: 2rem;
+}
